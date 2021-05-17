@@ -1,0 +1,30 @@
+
+.app {
+  margin: auto;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.player-wrapper {
+  width: 480px;
+  height: 270px;
+  background-color: aqua;
+}
+
+.react-player {
+  margin-bottom: 10px;
+  background: rgba(0, 0, 0, .1);
+}
+
+.faded {
+  color: rgba(0, 0, 0, .5);
+}
+.margin-top{
+  margin:100px auto ;
+
+}
+.centrar{
+  display: flex;
+  justify-content:space-around;
+}
