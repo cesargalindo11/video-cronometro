@@ -67,7 +67,6 @@ class Video extends Component {
           <div class="col">
          
               <section>
-                <h1>ReactPlayer Demo</h1>
                 <div className='player-wrapper'>
                   <ReactPlayer
                     ref={this.ref}
